@@ -1,0 +1,46 @@
+[INFO] 2024-02-15 09:32:53,486 runner.RunTest logInfo - clicked on Offers button
+[INFO] 2024-02-15 09:32:55,799 runner.RunTest logInfo - clicked on Yatra logo
+[INFO] 2024-02-15 09:32:56,714 runner.RunTest logInfo - clicked on Hotels option
+[INFO] 2024-02-15 09:32:57,714 runner.RunTest logInfo - loaded Hotel Search Page successfully
+[INFO] 2024-02-15 09:32:58,528 runner.RunTest logInfo - clicked on Select Location Input field
+[INFO] 2024-02-15 09:33:04,986 runner.RunTest logInfo - entered Hotel Location in Location input field
+[INFO] 2024-02-15 09:33:05,082 runner.RunTest logInfo - pressed enter key
+[INFO] 2024-02-15 09:33:05,183 runner.RunTest logInfo - loaded Hotel Search Page successfully
+[INFO] 2024-02-15 09:33:05,567 runner.RunTest logInfo - clicked on Select Location Input field
+[INFO] 2024-02-15 09:33:11,916 runner.RunTest logInfo - entered Hotel Location in Location input field
+[INFO] 2024-02-15 09:33:11,993 runner.RunTest logInfo - pressed enter key
+[INFO] 2024-02-15 09:33:12,185 runner.RunTest logInfo - clicked on Checkin date
+[INFO] 2024-02-15 09:33:12,671 runner.RunTest logInfo - selected Checkin date
+[INFO] 2024-02-15 09:33:13,175 runner.RunTest logInfo - clicked on Checkout date
+[INFO] 2024-02-15 09:33:13,370 runner.RunTest logInfo - selected Checkout date
+[INFO] 2024-02-15 09:33:16,368 runner.RunTest logInfo - clicked on Search Hotel button
+[INFO] 2024-02-15 09:33:19,534 runner.RunTest logInfo - loaded Hotel Search Results Page
+[INFO] 2024-02-15 09:33:24,817 runner.RunTest logInfo - clicked on Round Trip
+[INFO] 2024-02-15 09:33:25,381 runner.RunTest logInfo - clicked on Flight Departure Input field
+[INFO] 2024-02-15 09:33:29,638 runner.RunTest logInfo - entered Flight Departure city in Flight Departure input field
+[INFO] 2024-02-15 09:33:29,907 runner.RunTest logInfo - selected Flight Departure city from dropdown
+[INFO] 2024-02-15 09:33:30,314 runner.RunTest logInfo - clicked on Flight Arrival Input field
+[INFO] 2024-02-15 09:33:34,534 runner.RunTest logInfo - entered Flight Arrival city in Flight Arrival input field
+[INFO] 2024-02-15 09:33:34,785 runner.RunTest logInfo - selected Flight Arrival city from dropdown
+[INFO] 2024-02-15 09:33:34,967 runner.RunTest logInfo - clicked on Flight Departure date
+[INFO] 2024-02-15 09:33:35,424 runner.RunTest logInfo - selected Flight Departure date
+[INFO] 2024-02-15 09:33:35,713 runner.RunTest logInfo - clicked on Flight Arrival date
+[INFO] 2024-02-15 09:33:35,917 runner.RunTest logInfo - selected Flight Arrival date
+[INFO] 2024-02-15 09:33:36,113 runner.RunTest logInfo - clicked on Senior Citizen checkbox
+[ERROR] 2024-02-15 09:33:41,392 runner.RunTest logError - click on element failed
+[INFO] 2024-02-15 09:33:41,394 runner.RunTest logInfo - clicked on Search Flight button
+[INFO] 2024-02-15 09:33:42,096 runner.RunTest logInfo - fetched text from Stops span
+[INFO] 2024-02-15 09:33:42,099 runner.RunTest logInfo - verified Stops text from Flight Search Results Page
+[INFO] 2024-02-15 09:33:47,009 runner.RunTest logInfo - clicked on Holidays option
+[INFO] 2024-02-15 09:33:48,427 runner.RunTest logInfo - loaded Holiday Search Page
+[INFO] 2024-02-15 09:33:48,801 runner.RunTest logInfo - clicked on Holiday Departure Input field
+[INFO] 2024-02-15 09:33:53,030 runner.RunTest logInfo - entered Holiday Departure city
+[INFO] 2024-02-15 09:33:53,180 runner.RunTest logInfo - selected Holiday Departure city (Jaipur)
+[INFO] 2024-02-15 09:33:53,471 runner.RunTest logInfo - clicked on Holiday Going To Input field
+[INFO] 2024-02-15 09:33:57,655 runner.RunTest logInfo - entered Holiday Going To city
+[INFO] 2024-02-15 09:34:00,206 runner.RunTest logInfo - selected Holiday Going To city (Bengaluru)
+[INFO] 2024-02-15 09:34:00,405 runner.RunTest logInfo - clicked on Holiday Month field
+[INFO] 2024-02-15 09:34:00,701 runner.RunTest logInfo - selected Holiday Month
+[INFO] 2024-02-15 09:34:01,728 runner.RunTest logInfo - clicked on Search Holidays button
+[INFO] 2024-02-15 09:34:05,401 runner.RunTest logInfo - fetched Destination value
+[INFO] 2024-02-15 09:34:05,403 runner.RunTest logInfo - verified Destination Bengaluru

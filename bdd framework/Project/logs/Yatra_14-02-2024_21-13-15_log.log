@@ -1,0 +1,40 @@
+[INFO] 2024-02-14 21:13:22,789 Runner.RunTest logInfo - Test case 1
+[INFO] 2024-02-14 21:13:23,653 Runner.RunTest logInfo - clicked on Flight Departure Input field
+[INFO] 2024-02-14 21:13:27,904 Runner.RunTest logInfo - entered Flight Departure city in Flight Departure input field
+[INFO] 2024-02-14 21:13:28,101 Runner.RunTest logInfo - selected Flight Departure city from dropdown
+[INFO] 2024-02-14 21:13:28,412 Runner.RunTest logInfo - clicked on Flight Arrival Input field
+[INFO] 2024-02-14 21:13:32,606 Runner.RunTest logInfo - entered Flight Arrival city in Flight Arrival input field
+[INFO] 2024-02-14 21:13:32,821 Runner.RunTest logInfo - selected Flight Arrival city from dropdown
+[INFO] 2024-02-14 21:13:32,955 Runner.RunTest logInfo - clicked on Flight Departure date
+[INFO] 2024-02-14 21:13:33,358 Runner.RunTest logInfo - selected Flight Departure date
+[INFO] 2024-02-14 21:13:33,517 Runner.RunTest logInfo - clicked on Flight Arrival date
+[INFO] 2024-02-14 21:13:33,838 Runner.RunTest logInfo - selected Flight Arrival date
+[INFO] 2024-02-14 21:13:34,041 Runner.RunTest logInfo - clicked on Senior Citizen checkbox
+[INFO] 2024-02-14 21:13:38,316 Runner.RunTest logInfo - clicked on Search Flight button
+[INFO] 2024-02-14 21:13:38,526 Runner.RunTest logInfo - fetched text from Stops span
+[INFO] 2024-02-14 21:13:38,528 Runner.RunTest logInfo - verified Stops text from Flight Search Results Page
+[INFO] 2024-02-14 21:13:42,207 Runner.RunTest logInfo - Test case 2
+[INFO] 2024-02-14 21:13:43,135 Runner.RunTest logInfo - clicked on Holidays option
+[INFO] 2024-02-14 21:13:44,627 Runner.RunTest logInfo - loaded Holiday Search Page
+[INFO] 2024-02-14 21:13:44,977 Runner.RunTest logInfo - clicked on Holiday Departure Input field
+[INFO] 2024-02-14 21:13:49,142 Runner.RunTest logInfo - entered Holiday Departure city
+[INFO] 2024-02-14 21:13:49,270 Runner.RunTest logInfo - selected Holiday Departure city (Jaipur)
+[INFO] 2024-02-14 21:13:49,507 Runner.RunTest logInfo - clicked on Holiday Going To Input field
+[INFO] 2024-02-14 21:13:53,654 Runner.RunTest logInfo - entered Holiday Going To city
+[INFO] 2024-02-14 21:13:57,487 Runner.RunTest logInfo - selected Holiday Going To city (Bengaluru)
+[INFO] 2024-02-14 21:13:57,617 Runner.RunTest logInfo - clicked on Holiday Month field
+[INFO] 2024-02-14 21:13:57,735 Runner.RunTest logInfo - selected Holiday Month
+[INFO] 2024-02-14 21:13:58,848 Runner.RunTest logInfo - clicked on Search Holidays button
+[INFO] 2024-02-14 21:14:03,619 Runner.RunTest logInfo - fetched Destination value
+[INFO] 2024-02-14 21:14:03,619 Runner.RunTest logInfo - verified Destination Bengaluru
+[INFO] 2024-02-14 21:14:08,294 Runner.RunTest logInfo - Test case 3
+[INFO] 2024-02-14 21:14:09,107 Runner.RunTest logInfo - clicked on Hotels option
+[INFO] 2024-02-14 21:14:11,967 Runner.RunTest logInfo - clicked on Select Location Input field
+[INFO] 2024-02-14 21:14:16,208 Runner.RunTest logInfo - entered Hotel Location in Location input field
+[INFO] 2024-02-14 21:14:16,284 Runner.RunTest logInfo - pressed enter key
+[INFO] 2024-02-14 21:14:16,435 Runner.RunTest logInfo - clicked on Checkin date
+[INFO] 2024-02-14 21:14:16,816 Runner.RunTest logInfo - selected Checkin date
+[INFO] 2024-02-14 21:14:16,978 Runner.RunTest logInfo - clicked on Checkout date
+[INFO] 2024-02-14 21:14:17,216 Runner.RunTest logInfo - selected Checkout date
+[INFO] 2024-02-14 21:14:19,433 Runner.RunTest logInfo - clicked on Search Hotel button
+[INFO] 2024-02-14 21:14:23,400 Runner.RunTest logInfo - loaded Hotel Search Results Page
